@@ -62,3 +62,7 @@ Finally,Countries with dense population and higher tourism rates were the ones t
 [Our World In Data](https://ourworldindata.org/coronavirus-data)
 
 [John Hopkins](https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker)
+
+## Screenshot of Dashboard
+
+![](https://github.com/Gonnuru/COVID19_Tableau/blob/master/dashboard_screenshot.jpg)
