@@ -1,3 +1,5 @@
+![](https://github.com/Gonnuru/COVID19_Tableau/blob/master/dashboard_screenshot.jpg)
+
 # COVID-19 Tableau Visualization
 
 I have created a dashboard with 6 visualizations to analyze and understand effects of Covid-19 in United States and Globally. 
@@ -63,6 +65,4 @@ Finally,Countries with dense population and higher tourism rates were the ones t
 
 [John Hopkins](https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker)
 
-## Screenshot of Dashboard
 
-![](https://github.com/Gonnuru/COVID19_Tableau/blob/master/dashboard_screenshot.jpg)
